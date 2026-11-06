@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DasaMode.Api/DasaMode.Api.csproj" />
+    <Project Path="src/DasaMode.Application/DasaMode.Application.csproj" />
+    <Project Path="src/DasaMode.Domain/DasaMode.Domain.csproj" />
+    <Project Path="src/DasaMode.Infrastructure/DasaMode.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DasaMode.IntegrationTests/DasaMode.IntegrationTests.csproj" />
+    <Project Path="tests/DasaMode.UnitTests/DasaMode.UnitTests.csproj" />
+  </Folder>
+</Solution>
